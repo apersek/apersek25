@@ -37,8 +37,9 @@ import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
 import logoap from "./logoap.png";
 import profilepic from "./profilepic.png";
-import apl from "./apl.png"
-import xlap from "./xlap.png"
+import apl from "./apl.png";
+import xlap from "./xlap.png";
+import apl_dark from "./apl_dark.png";
 
 export const assets = {
     user_image,
@@ -81,7 +82,8 @@ export const assets = {
     logoap,
     profilepic,
     apl,
-    xlap
+    xlap,
+    apl_dark
 };
 
 export const workData = [
