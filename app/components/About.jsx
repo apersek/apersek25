@@ -14,7 +14,9 @@ const About = () => {
         </div>
         <div className="flex-1">
             <p className=" mb-10 max-w-2xl font-Ovo">
-                About Me Paragraph!
+            I am a third-year Computer Science student with a passion for front-end web development. I thrive on the challenge of turning creative ideas into engaging, user-friendly websites, blending modern design trends with solid coding practices.
+            As I continue to explore HTML, CSS, and JavaScript and React, I am excited to learn new skills and build more projects. Every project I work on is a step forward in my journey to become a versatile and impactful web developer,
+            and I'm excited to see where this adventure in tech takes me! Other interests I have include Surfing, learning about WEB 3 and Crypto Currency as well as playing the guitar.
             </p>
 
             <ul className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl">
