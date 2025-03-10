@@ -28,7 +28,7 @@ const Services = () => {
         whileInView={{opacity: 1}}
         transition={{duration: 0.5, delay:0.7}}
         className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo">
-            Services Paragraph
+            As a passionate Front-End Web Developer, I specialize in crafting responsive, user-friendly websites using HTML, CSS, and JavaScript. I am actively expanding my expertise in React to build dynamic and interactive web applications. Additionally, I use Figma to design intuitive and visually appealing user interfaces. Whether you need a sleek website or a pixel-perfect UI, I bring creativity and technical precision to every project. Let's build something amazing together!
         </motion.p>
 
         <motion.div 
